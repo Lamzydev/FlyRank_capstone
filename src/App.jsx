@@ -1,5 +1,4 @@
 
-
 import './App.css'
 
 function App() {
@@ -18,14 +17,8 @@ function App() {
        <div className="hero">
           <ul>
             <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
+              <a href="https://github.com/Lamzydev" target="_blank" rel="noopener noreferrer">
+               
                 GitHub
               </a>
             </li>
