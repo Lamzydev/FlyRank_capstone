@@ -74,12 +74,13 @@ h2 {
 }
 
 h1 {
+  color: red;
   font-size: 56px;
   letter-spacing: -1.68px;
-  margin: 32px 0;
+  margin: 32px 0 16px;
   @media (max-width: 1024px) {
     font-size: 36px;
-    margin: 20px 0;
+    margin: 20px 0 12px;
   }
 }
 h2 {
