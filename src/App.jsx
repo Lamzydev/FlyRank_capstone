@@ -1,34 +1,9 @@
 
 import './App.css'
+import Settings from '../ass/Settings.jsx'
 
 function App() {
- 
-
-  return (
-    <>
-      <section id="center">
-
-   <div id="root">
-<h1>Welcome to Week 1 Of FlyRank AI!</h1>
- <p>In this week, we will be focusing on the basics of AI and how it can be applied to various industries. We will also be exploring the different types of AI and their applications.</p>
-
-     </div>
-
-       <div className="hero">
-          <ul>
-            <li>
-              <a href="https://github.com/Lamzydev" target="_blank" rel="noopener noreferrer">
-               
-                GitHub
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      
-    </>
-  )
+  return <Settings />
 }
 
 export default App
